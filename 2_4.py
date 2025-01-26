@@ -51,7 +51,8 @@ my_stack.pop()
 #Проверяем пуст ли стек
 print("Стек пуст?", my_stack.is_empty())
 
-#Выводим размер сьека
+#Выводим размер стека
 print("Размер стека:", my_stack.size())
 
 "Hello World!"
+print(4+3)
