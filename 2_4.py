@@ -56,3 +56,4 @@ print("Размер стека:", my_stack.size())
 
 "Hello World!"
 print(4+3)
+print('git changes')
